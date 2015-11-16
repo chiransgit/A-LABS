@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # Created by https://www.gitignore.io/api/android,eclipse
 
 ### Android ###
+=======
+>>>>>>> 0765831c64c9809fcd8ee5468dc59aa66e054e7c
 # Built application files
 *.apk
 *.ap_
@@ -18,6 +21,10 @@ gen/
 # Gradle files
 .gradle/
 build/
+<<<<<<< HEAD
+=======
+/*/build/
+>>>>>>> 0765831c64c9809fcd8ee5468dc59aa66e054e7c
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -27,6 +34,7 @@ proguard/
 
 # Log Files
 *.log
+<<<<<<< HEAD
 
 # Android Studio Navigation editor temp files
 .navigation/
@@ -89,3 +97,5 @@ local.properties
 
 #Personal Files
 /Documentation
+=======
+>>>>>>> 0765831c64c9809fcd8ee5468dc59aa66e054e7c
